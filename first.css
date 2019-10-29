@@ -1,0 +1,23 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(240, 81, 160);
+}
+
+h1 {
+    color: crimson;
+    text-shadow: 3px 3px 5px blue;
+    text-transform: uppercase;
+    font-size: 3.5em;
+}
+
+a {
+    font-size: 2em;
+    color: darkred;
+}
+
+i {
+    font-size: 5em;
+    color: darkolivegreen;
+}
+
